@@ -26,6 +26,7 @@
 #include <linux/rcupdate.h>
 #include <linux/string.h>
 #include <linux/hash.h>
+#include <linux/vmalloc.h>
 #include <linux/susfs.h>
 #include "fuse/fuse_i.h"
 #include "mount.h"
